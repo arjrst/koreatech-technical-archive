@@ -3,6 +3,8 @@
 **Course:** Computational Thinking (Freshman Year)  
 **Tech Stack:** `Python` , `Tkinter` , `Random` , `Time`
 
+---
+
 ### Description
 A logic-based interactive application that utilizes a graphical user interface to challenge users' deductive reasoning. This project served as a foundational exploration into building responsive desktop applications and managing real-time program states.   
 
