@@ -49,9 +49,6 @@ This repository serves as a structured technical portfolio documenting my underg
 ---
 
 ### 2024 (Sophomore Year) 
-*Focus: Algorithms, OS, and Object-Oriented Programming*
-* **[Folder Name]:** Implementation of efficient data structures and algorithmic complexity analysis.
-* **[Folder Name]:** Low-level systems programming and hardware-software interfacing.
 
 --- 
 
