@@ -1,22 +1,15 @@
-# koreatech-technical-archive
-Undergraduate technical portfolio and academic archive. B.S. in Computer Science &amp; Engineering, KoreaTech.
+# 2023 Freshman Projects
 
-**Owner**: Arzu Rustamova  
-**Institution**: KOREATECH (Korea University of Technology and Education, 힌국기술교육대학교)  
-**Degree**: B.S in Computer Science & Engineering, *GKS Scholar*  
+Focus: Python Programming, Basic GUI Development.
 
-**Research Interests & Focus**
-* **Human-Centered AI & System Evaluation**
-    * AI Performance Metrics
-    * Explainable AI (XAI)
-    * Human-AI Interaction
+## Projects in this Folder
 
-* **Computational Neuroscience & Cognitive Modeling**
-    * Brain-Inspired Computing *(Hemispheric specialization and split-brain architectures.)*
-    * Cognitive Architectures
-    * Neuromorphic Concepts
+### 📂 GUI-Guessing-Game (Spring 2023)
+* **Course:** Computational Thinking
+* **Description:** A graphical application implementing game logic with event-driven programming.
+* **Tech:** Python (Tkinter/PyQt).
 
-* **Data Engineering & ML Systems**
-    * End-to-End ML Pipelines
-    * Causal Uplift Modeling
-    * Data Processing
+### 📂 MyKios (Fall 2023) - *Recovery in Progress*
+* **Course:** Creative Engineering Design
+* **Description:** An automation script for system tasks.
+* **Tech:** Python Automation.
