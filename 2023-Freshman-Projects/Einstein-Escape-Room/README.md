@@ -37,8 +37,6 @@ I served as the Lead Developer, focusing on the core engine and the randomized r
 ---
 
 ### ⚙️ How to Run
-1. Compile the source code:
-   `gcc teamprojectmypart.c -o einstein_escape`
-2. Run the executable:
-   `./einstein_escape`
-3. Follow the on-screen prompts to navigate the rooms and solve the riddles.
+1. **Compile:** `gcc teamprojectmypart.c -o einstein_escape`
+2. **Execute:** `./einstein_escape`
+3. **Gameplay:** Use numeric inputs for room navigation and text-based inputs for solving the memory riddles.
