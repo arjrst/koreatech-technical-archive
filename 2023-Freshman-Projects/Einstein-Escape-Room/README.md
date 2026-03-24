@@ -1,7 +1,7 @@
 # Einstein's Memory: C-Based Logic Escape Room (2023)
 
 **Course:** Problem Solving and Programming  
-**Collaboration:** Team of 2
+**Collaboration:** Team of 2  
 **Role:** Lead Developer *(Logic & State Management)*  
 **Tech Stack:** `C` , `Standard I/O` , `String.h` , `Time.h`
 
