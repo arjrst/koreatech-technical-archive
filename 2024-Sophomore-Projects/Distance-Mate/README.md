@@ -1,6 +1,8 @@
 # Distance Mate: Portable Inter-Vehicle Alert System (2024)
 
 **Course:** Computer System Basic Design (Sophomore Year)  
+**Collaboration:** Team Project (4 Members)  
+**Role:** Technical Lead / Requirements Engineering  
 **Methodologies:** `AHP (Analytic Hierarchy Process)` , `Tradeoff Matrix` , `Requirements Engineering` , `Systems Architecture`
 
 ---
