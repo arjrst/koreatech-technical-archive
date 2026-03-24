@@ -62,7 +62,7 @@ This repository serves as a structured technical portfolio documenting my underg
 ---
 
 ### Academic Goals
-I am currently preparing for the **Spring 2027 Graduate Admission track at KAIST**. My research interests lie at the intersection of Computer Vision and high-performance system architecture.
+Graduate-bound researcher focused on the intersection of Human-Centric AI and Cognitive Modeling. Currently exploring scalable architectures for intuitive machine intelligence.
 
 ##  Contact
 * **Email:** arzurustamlii@gmail.com
