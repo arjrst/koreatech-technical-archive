@@ -1,6 +1,6 @@
 # MyKiosk: System Automation Tool (2023)
 
-**Course:** Creative Engineering Design (Freshman Year)  
+**Course:** Creative Engineering Design  
 **Collaboration:** Team Project (4 Members)  
 **Role:** Lead Developer  
 **Tech Stack:** Python (`PyAutoGUI`, `os`, `keyboard`, `time`)
