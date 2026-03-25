@@ -1,6 +1,6 @@
 # GUI Number Guessing Game (2023)
 
-**Course:** Computational Thinking (Freshman Year)  
+**Course:** Computational Thinking  
 **Tech Stack:** `Python` , `Tkinter` , `Random` , `Time`
 
 ---
