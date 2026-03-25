@@ -1,5 +1,6 @@
 # 4 DOF Embedded Robot Arm (2024)
 
+**Course:** Computer Basic System Design 
 **Tech Stack:** `C (AVR)` , `ATmega128` , `PWM` , `ADC` , `UART`  
 **Domain:** Embedded Systems, Hardware-Software Integration
 
