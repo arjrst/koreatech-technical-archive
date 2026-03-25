@@ -6,7 +6,6 @@
 
 
 ## Repository Overview
-This repository serves as a structured technical portfolio documenting my undergraduate progression from foundational computer science principles to research-oriented applications. It highlights my proficiency in Python-based automation, algorithmic logic, and deep learning.
 
 
 ## **Research Interests & Focus**
