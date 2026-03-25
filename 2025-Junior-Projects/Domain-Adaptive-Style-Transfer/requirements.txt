@@ -1,0 +1,18 @@
+# --- Core Research & GAN Framework (2025 Originals) ---
+torch>=1.4.0
+torchvision>=0.5.0
+dominate>=2.4.0
+visdom>=0.1.8.8
+packaging
+GPUtil>=1.4.0
+numpy
+
+# --- Image Processing (For Lanczos Resampling) ---
+Pillow
+
+# --- Deployment & Web Dashboard ---
+fastapi
+uvicorn
+jinja2
+aiofiles
+python-multipart
