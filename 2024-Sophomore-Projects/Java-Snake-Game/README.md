@@ -1,9 +1,9 @@
 # Interactive Snake Game (2024)
 
-**Course:** Java Programming (Sophomore Year)
-**Collaboration:** Individual Project
-**Tech Stack:** Java , Swing Framework , Event Handling , OOP Logic
-**Domain:** GUI Development, Object-Oriented Software Design
+**Course:** Java Programming  
+**Collaboration:** Individual Project  
+**Tech Stack:** `Java` , `Swing Framework` , `Event Handling` , `OOP Logic`  
+**Domain:** GUI Development, Object-Oriented Software Design  
 
 ***
 
