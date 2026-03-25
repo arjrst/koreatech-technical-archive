@@ -1,4 +1,4 @@
-# Koreatech Technical Archive (2023-2026)
+# Koreatech Technical Archive (2023-Ongoing)
 
 **Owner:** Arzu Rustamova  
 **Institution:** KOREATECH (한국기술교육대학교)  
