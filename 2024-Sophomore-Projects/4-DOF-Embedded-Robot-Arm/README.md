@@ -1,12 +1,20 @@
 # 4 DOF Embedded Robot Arm (2024)
 
-**Tech Stack:** `Time C (AVR)` , `ATmega128` , `PWM` , `ADC` , `UART`   
-**Domain:** Embedded Systems, Hardware-Software Integration  
+**Tech Stack:** `C (AVR)` , `ATmega128` , `PWM` , `ADC` , `UART`  
+**Domain:** Embedded Systems, Hardware-Software Integration
 
 ***
 
 ### Project Overview
-A comprehensive hardware-software integration project focused on designing, building, and programming a 4-degree-of-freedom (DOF) robotic manipulator. The system utilizes an ATmega128 microcontroller to process manual analog inputs and translate them into precise, real-time multi-axis kinematics for payload manipulation.
+A comprehensive hardware-software integration project focused on designing, building, and programming a 4-degree-of-freedom (DOF) robotic manipulator. The system utilizes an AVR microcontroller to process manual analog inputs and translate them into precise, real-time multi-axis kinematics for payload manipulation.
+
+***
+
+### Key Features & Hardware
+* **4 DOF Robot Arm Design:** Enables various complex movements through 4 degrees of freedom.
+* **Pincer-Type Hand:** Capable of securely grabbing and transporting physical objects.
+* **Wood Stick Structure:** A simple, cost-effective, and custom-built physical chassis.
+* **Hardware Components:** 4x Servo Motors, 1x Analog Joystick, 4x Tactile Switch Buttons, 1x Active Buzzer, 4x Resistors, and wiring for circuit connection and power distribution.
 
 ***
 
@@ -19,8 +27,8 @@ A comprehensive hardware-software integration project focused on designing, buil
 
 ***
 
-### Engineering Challenges: Power & Hardware Reliability
-During extended load testing, the system experienced severe servo jitter and torque loss. I diagnosed this as a power regulation issue, where the simultaneous current draw of four motors caused unstable voltage dips from the standard battery pack. To ensure system reliability during the final payload-transport evaluation, I bypassed the unstable power source and re-routed the power distribution to a regulated DC bench supply. This stabilized the logic levels and instantly eliminated the hardware jitter, reinforcing the critical relationship between firmware execution and physical power constraints.
+### Engineering Challenges: Current & Voltage Distribution
+During extended load testing, the system experienced severe servo jitter and torque loss. I diagnosed this as a current and voltage distribution issue. The simultaneous current draw of four servo motors caused unstable voltage drops across the circuit, which the standard battery pack could not reliably support. To ensure system reliability during the final payload-transport evaluation, I bypassed the unstable battery source and re-routed the power distribution to a regulated DC bench supply. This provided a stable current flow and proper voltage regulation, instantly eliminating the hardware jitter and reinforcing the critical relationship between firmware execution and physical power constraints.
 
 ***
 
