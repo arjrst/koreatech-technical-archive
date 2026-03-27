@@ -1,7 +1,7 @@
 # LegalAI: RAG-Driven Legal Translation System
 **Graduation Project | KOREATECH 2025-2026**
 
-**Collaboration:** eam Project (Lead Mobile Architect & UI/UX Designer)  
+**Collaboration:** Team Project (Lead Mobile Architect & UI/UX Designer)  
 **Tech Stack:** `Flutter`, `Dart`, `Llama 3 (8B)`, `RAG Architecture`, `VS Code`  
 **Domain:** Natural Language Processing (NLP), Mobile Software Engineering, Human-Computer Interaction (HCI)
 
