@@ -43,11 +43,21 @@
 
 ### Archive Structure
 
-###  2025 (Junior Year) — 
+### 2025 (Junior Year) — Specialized Applications
+*Focus: Deep Learning, Web3, and Systems Engineering*
+
+* **[Domain-Adaptive Style Transfer](2025-Junior-Projects/Domain-Adaptive-Style-Transfer):** (Technical Lead) End-to-end GAN pipeline (GTA5 to Cityscapes) featuring a FastAPI-based deployment suite and rigorous metrics ($mIoU$, $FID$).
+* **[Gladiator-Duel-DApp](2025-Junior-Projects/Gladiator-Duel-DApp):** Decentralized application focusing on smart contract security, state management, and blockchain-based game logic.
+* **[OS Concurrency Project](2025-Junior-Projects/OS-Concurrency-Project):** Deep-dive into kernel-level process synchronization, multi-threading, and resource management.
 
 ---
 
-### 2024 (Sophomore Year) 
+### 2024 (Sophomore Year) — Core Engineering & Embedded Systems
+*Focus: Hardware Integration, Object-Oriented Programming, and Sensor Logic*
+
+* **[4-DOF Embedded Robot Arm](2024-Sophomore-Projects/4-DOF-Embedded-Robot-Arm):** Hardware-software integration focusing on inverse kinematics, servo control, and embedded C++ logic.
+* **[Distance-Mate](2024-Sophomore-Projects/Distance-Mate):** (Technical Lead) A sensor-based distance measurement system utilizing real-time data processing for spatial awareness.
+* **[Java Snake Game](2024-Sophomore-Projects/Java-Snake-Game):** A robust implementation of classic arcade logic focusing on OOP principles, collision detection, and GUI rendering.
 
 --- 
 
