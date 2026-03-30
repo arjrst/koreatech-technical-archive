@@ -67,12 +67,8 @@ To document the underlying optimization process, the following data highlights t
 <summary><b>Click to view Model 2 Metrics (CUT)</b></summary>
 
 **Model 2** focused on high-fidelity texture synthesis, requiring separate analysis of adversarial stability and structural loss.
+![Model 2 Training Metrics](./research_artifacts/model2_unified_training_metrics.png)
 
-**Adversarial Training (G vs. D):**
-![Model 2 GAN Adversarial](./research_artifacts/model2_adversarial_competition.png)
-
-**Structural Consistency (NCE Loss):**
-![Model 2 NCE Loss](./research_artifacts/model2_structural_nce_loss.png)
 </details>
 
 #### **Final Performance Matrix**
