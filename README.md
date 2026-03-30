@@ -44,8 +44,8 @@
 ### 2026 (Senior Year) — System Architecture & Applied AI  
 *Focus: Mobile Systems, Database Engineering, and Human-Centered AI*
 
-* **(Ongoing) [LegalAI-System-Interface](https://github.com/arzur/2026-Senior-Projects/LegalAI-System-Interface)**: (Lead Mobile Architect & UI/UX Designer) End-to-end re-architecture of a RAG-driven mobile system using **Flutter**. Focused on replacing legacy skeletons with a production-ready framework and developing a high-trust visual identity optimized for legal accessibility and research validation.
-* **(Ongoing) [Database-System-Design](https://github.com/arzur/2026-Senior-Projects/Database-System-Design)**: Integrated social community layer (**Kyo-Board**) for Kyobo Book Centre. Development of a threaded asynchronous community model featuring N:M relational modeling, Role-Based Access Control (RBAC).
+* **(Ongoing) [LegalAI-System-Interface](https://github.com/arjrst/koreatech-technical-archive/tree/main/2026-Senior-Projects/LegalAI-System-Interface)**: (Lead Mobile Architect & UI/UX Designer) End-to-end re-architecture of a RAG-driven mobile system using **Flutter**. Focused on replacing legacy skeletons with a production-ready framework and developing a high-trust visual identity optimized for legal accessibility and research validation.
+* **(Ongoing) [Database-System-Design](https://github.com/arjrst/koreatech-technical-archive/tree/main/2026-Senior-Projects/Database-System-Desig)**: Integrated social community layer (**Kyo-Board**) for Kyobo Book Centre. Development of a threaded asynchronous community model featuring N:M relational modeling, Role-Based Access Control (RBAC).
 
 ***
 
