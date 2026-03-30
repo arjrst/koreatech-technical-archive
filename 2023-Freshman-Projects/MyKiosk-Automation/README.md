@@ -2,11 +2,15 @@
 **Course:** Creative Engineering Design  
 **Collaboration:** Team Project (4 Members)  
 **Role:** Lead Developer  
-**Tech Stack:** Python (`PyAutoGUI`, `os`, `keyboard`, `time`)
+**Tech Stack:** Python (`PyAutoGUI`, `os`, `keyboard`, `time`)  
+
 ---
+
 ### Project Overview
 MyKiosk is a productivity-focused automation script developed to streamline daily workstation setups. It provides a GUI-driven interface for users to handle repetitive system tasks—such as checking news rankings, weather, or specific YouTube feeds—through a centralized "kiosk" system.
+
 ---
+
 ### Technical Contributions (Lead Developer)
 As the Lead Developer, I was responsible for the core application logic and primary user-facing modules:
 
