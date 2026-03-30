@@ -53,6 +53,11 @@ The project includes a **FastAPI-based deployment suite** that allows for real-t
 
 ---
 
+![Model Comparison](./research_artifacts/models_result_comparison.png)
+*Figure 2: Side-by-side comparison of Original (GTA5), Model 1 (FastCUT), and Model 2 (CUT) outputs.*
+
+---
+
 ### 🔬 Technical Deep Dive: Training & Loss Analysis
 To document the underlying optimization process, the following data highlights the adversarial competition and structural consistency measures ($NCE$ Loss) used for each model.
 
