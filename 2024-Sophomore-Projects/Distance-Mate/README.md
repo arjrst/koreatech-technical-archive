@@ -25,6 +25,9 @@ A design-centered systems engineering team project focused on architecting a por
 ### Engineering Challenges: Sensor Selection & Tradeoff Analysis
 A primary challenge in this architectural design was balancing the cost and physical footprint of the sensor array with the strict requirement for multidirectional detection and weather independence. While the team's initial research into LiDAR offered high resolution, it proved unsuitable for a portable scooter device. To resolve this, I utilized a Tradeoff Matrix to justify the selection of a specialized Radar module. This provided the necessary environmental robustness and met the sub-1-second latency requirement while remaining within the strict power and budget constraints of a portable, bracket-mounted system.
 
+![Engineering-Marketing Tradeoff Matrix](./media/tradeoff_matrix.png)
+*Figure 1: Engineering-Marketing Tradeoff Matrix used to justify sensor selection.*
+
 ***
 
 ### 🔒 Academic Integrity Note
