@@ -24,7 +24,7 @@ The initial phase focused on identifying the failures of current translation tec
 
 ---
 
-## 2026: Implementation Phase (Senior Project)
+## 2026: Implementation Phase (Senior Project/졸업설계)
 *Focus: System Architecture, UI/UX Design, and Cross-Platform Development*
 
 This phase involves transforming research concepts into a functional product. The development process required a complete re-architecture of the client-side system to ensure production-grade stability and a human-centered user experience.
