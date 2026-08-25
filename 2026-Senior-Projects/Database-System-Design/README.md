@@ -2,7 +2,7 @@
 
 **Course:** Database Design  
 **Collaboration:** Team Project  
-**Tech Stack:** SQL, Relational Modeling, ER Modeling, Conceptual/Logical/Physical Design  
+**Tech Stack:** `SQL`, `Microsoft SQL Server`
 **Domain:** Social Community Systems, Database Design, E-commerce Integration  
 
 ---
