@@ -88,10 +88,10 @@ The implementation phase transformed the system designed during the engineering-
 
 <br>
 
-![BLEU Metric Comparison](./media/bleu%20metric.png)  
+![BLEU Metric Comparison](./media/domain_specific_bleu.png)  
 *Domain-Specific BLEU Comparison*
 
-![Overall BLEU Score](./media/bleu%20overall.png)  
+![Overall BLEU Score](./media/overall_bleu.png)  
 *Overall BLEU Score*
 
 </details>
