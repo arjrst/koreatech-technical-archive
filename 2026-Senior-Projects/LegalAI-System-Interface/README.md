@@ -98,3 +98,22 @@ The implementation phase transformed the system designed during the engineering-
 
 ### **Final System**
 The completed system was implemented as a **smartphone-optimized legal consultation application** integrating legal translation, consultation, legal information retrieval, document analysis, petition drafting, voice interaction, and Plain English explanations. The final architecture combines the **Flutter frontend, FastAPI backend, LangGraph orchestration, Gemini API, Llama-3 8B, QLoRA Knowledge Adapter, ChromaDB-based RAG pipeline, and multimodal processing modules** into a unified legal AI service.
+
+### **Application Screenshots**
+
+<details>
+<summary><b>📱 Click to view application screenshots</b></summary>
+
+#### Welcome & Login
+<img src="./media/welcome.png" width="250"> <img src="./media/login.png" width="250">
+
+#### Legal Consultation
+<img src="./media/consult.png" width="250"> <img src="./media/consult%202.png" width="250">
+
+#### Document Recognition & Analysis
+<img src="./media/document%20recognition.png" width="250"> <img src="./media/doc%20rec%202.png" width="250">
+
+#### Petition Drafting
+<img src="./media/petition.png" width="200"> <img src="./media/petition2.png" width="200"> <img src="./media/petition3.png" width="200"> <img src="./media/petition4.png" width="200">
+
+</details>
