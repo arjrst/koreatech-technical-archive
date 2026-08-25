@@ -83,5 +83,18 @@ The implementation phase transformed the system designed during the engineering-
     * **Foreign Employment:** 44.4
 * **Result**: LegalAI achieved the highest overall BLEU Score among the evaluated systems. The results demonstrated that the combination of legal-domain fine-tuning and RAG improved translation performance in the evaluated legal domains.
 
+<details>
+<summary><b>📊 Click to view BLEU score evaluation</b></summary>
+
+<br>
+
+![BLEU Metric Comparison](./media/bleu%20metric.png)  
+*Domain-Specific BLEU Comparison*
+
+![Overall BLEU Score](./media/bleu%20overall.png)  
+*Overall BLEU Score*
+
+</details>
+
 ### **Final System**
 The completed system was implemented as a **smartphone-optimized legal consultation application** integrating legal translation, consultation, legal information retrieval, document analysis, petition drafting, voice interaction, and Plain English explanations. The final architecture combines the **Flutter frontend, FastAPI backend, LangGraph orchestration, Gemini API, Llama-3 8B, QLoRA Knowledge Adapter, ChromaDB-based RAG pipeline, and multimodal processing modules** into a unified legal AI service.
