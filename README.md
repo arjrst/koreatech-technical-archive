@@ -7,24 +7,37 @@
 
 ## **Research Interests & Focus**
 
-* **Human-Centered AI & System Evaluation**
+* **Cognitive Architectures & World Models**
 
-    * AI Performance Metrics
+    * Human-Like Reasoning in Artificial Systems
 
-    * Explainable AI (XAI)
+    * Generative Models for Perception and Environmental Adaptation
+
+    * Cognitive Architectures & Structured Reasoning
+
+
+
+* **Autonomous Agents & Logical Reasoning**
+
+    * Agentic AI Systems
+
+    * Multi-Agent Architectures
+
+    * Large Language Model Reasoning
+
+    * Dynamic Decision-Making & Tool Use
+
+
+
+* **Human-AI Interaction & Applied AI Systems**
 
     * Human-AI Interaction
 
+    * AI Agent Interface & Interaction Design
 
+    * End-to-End AI System Architecture
 
-* **Computational Neuroscience & Cognitive Modeling**
-
-    * Brain-Inspired Computing *(Hemispheric specialization and split-brain architectures.)*
-
-    * Cognitive Architectures
-
-    * Neuromorphic Concepts
-
+    * Evaluation of AI-Driven Systems
 
 
 * **Data Engineering & ML Systems**
@@ -41,10 +54,10 @@
 ### Archive Structure
 
 
-### 2026 (Senior Year) — System Architecture & Applied AI  
-*Focus: Mobile Systems, Database Engineering, and Human-Centered AI*
+### 2026 (Senior Year) — Applied AI & Intelligent System Architecture  
+*Focus: Agentic AI, RAG Systems, Full-Stack AI Integration, and Human-AI Interaction*
 
-* **[LegalAI-System-Interface](https://github.com/arjrst/koreatech-technical-archive/tree/main/2026-Senior-Projects/LegalAI-System-Interface)**: (Lead Mobile Architect & UI/UX Designer) End-to-end re-architecture of a RAG-driven mobile system using **Flutter**. Focused on replacing legacy skeletons with a production-ready framework and developing a high-trust visual identity optimized for legal accessibility and research validation.
+* **[# LegalAI: RAG Based Legal AI Agent System](https://github.com/arjrst/koreatech-technical-archive/tree/main/2026-Senior-Projects/LegalAI-System-Interface)**:  Team-based legal AI system designed for foreign residents in South Korea. Developed a **RAG-based legal AI Agent** integrating **Llama-3 8B, QLoRA, LangGraph, Gemini API, ChromaDB, FastAPI, and Flutter**. Contributed to frontend development, UI/UX design, backend integration and modification, and the interaction logic governing how the AI responds to different user intents and how AI-generated results are presented across legal consultation, translation, document analysis, petition drafting, voice interaction, and Plain English explanation features. The system was evaluated using **BLEU Score**, achieving an overall average score of **42.66**.
 * **[Database-System-Design](https://github.com/arjrst/koreatech-technical-archive/tree/main/2026-Senior-Projects/Database-System-Design)**: Integrated social community layer (**Kyo-Board**) for Kyobo Book Centre. Development of a threaded asynchronous community model featuring N:M relational modeling, Role-Based Access Control (RBAC).
 
 ***
